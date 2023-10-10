@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 渡辺智也
+鹿児島キャリアデザイン専門学校に所属しています。
+
+学校ではHTML と CSS　や　ネットワークの基礎を勉強しています。
+
+8月に基本情報技術者試験に合格しました。
+
